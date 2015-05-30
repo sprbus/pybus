@@ -1,1 +1,15 @@
 *.bak
+*.class
+*.exe
+*.swo
+*.ini
+*.pyc
+*.egg
+*.egg-info
+*.so
+*.py[cod]
+
+#windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
