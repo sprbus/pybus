@@ -1,7 +1,12 @@
 *.bak
 *.class
 *.exe
+
+#linux
 *.swo
+*.swp
+
+#other
 *.ini
 *.pyc
 *.egg
